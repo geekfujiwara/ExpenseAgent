@@ -3,8 +3,7 @@
 
 エージェントは経費に関する社内の複雑なルールの質問にも答えつつ、定義している旅費プランから出張の基準金額を取得し、さらに経費申請を代行してくれます。
 
-![image](https://github.com/user-attachments/assets/4159cc0a-49dc-41bd-bc02-557dd00ffd25)
-
+![image](https://github.com/user-attachments/assets/5b024b90-1213-4056-ae5d-f9d715629c7f)
 
 https://github.com/user-attachments/assets/7ec4bcf3-4a9f-4747-8540-3d91c01ef87d
 
