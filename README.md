@@ -44,7 +44,7 @@ QAに関しては、エージェントには経費ルールのドキュメント
 
 ## ソリューションのインポート方法
 
-[ソリューションをダウンロード](https://github.com/geekfujiwara/ExpenseAgent/releases/tag/ExpenseAgent)します。
+[ソリューションをダウンロード](https://github.com/geekfujiwara/ExpenseAgent/releases)します。
 
 ソリューションからインポートを選択します。
 
